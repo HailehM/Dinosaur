@@ -1,0 +1,82 @@
+body{
+    background: #191A28;
+    
+}
+
+
+	.container {
+	max-width: 1000px;
+	margin: auto;
+	font-size: 30px;
+	padding: 20px;
+	
+}
+.parallax{
+	background-image: url("dinosaur/styra.png");
+	margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1500px;
+
+}
+.info{
+	z-index: 2;
+	position: relative;
+	
+}
+
+p{
+	font-family: meatball,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	color: #9B1748
+}
+h1{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 35px;
+	color: #D0DDF5
+}
+
+.parallax2{
+	background-image: url("dinosaur/Trike.png");
+	margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1500px;
+
+}
+
+.parallax3{
+	background-image: url("dinosaur/diablo.png");
+	margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1500px;
+}
+
+.parallax4{
+	background-image: url("dinosaur/mercu.png");
+	margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1500px;
+}
+
+.parallax5{
+	background-image: url("dinosaur/pachy.png");
+	margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1500px;
+}
